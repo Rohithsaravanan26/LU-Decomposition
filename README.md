@@ -10,12 +10,10 @@ To write a program to find the LU Decomposition of a matrix.
 ## Algorithm
 
 ## Program:
+### Developed by: Rohith S
+### RegisterNumber: 25008317
 (i) To find the L and U matrix
 ```
-Program to find the L and U matrix.
-Developed by: Rohith S
-RegisterNumber: 25008317
-
 import numpy as np
 from scipy.linalg import lu
 a = np.array(eval(input()))
@@ -25,10 +23,6 @@ print(U)
 ```
 (ii) To find the LU Decomposition of a matrix
 ```
-Program to find the LU Decomposition of a matrix.
-Developed by: Rohith S
-RegisterNumber: 25008317
-
 # To print X matrix (solution to the equations)
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
