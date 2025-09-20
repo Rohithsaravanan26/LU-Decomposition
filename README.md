@@ -9,13 +9,13 @@ To write a program to find the LU Decomposition of a matrix.
 
 ## Algorithm
 ### Step 1: 
-
+Import the required Python libraries (numpy and scipy.linalg).
 ### Step 2: 
-
+Get the input matrix from the user (or define it in the program).
 ### Step 3: 
-
+Use the LU decomposition function (lu for matrices or lu_factor and lu_solve for solving equations).
 ### Step 4: 
-
+Display the L and U matrices and/or the solution for the system of linear equations.
 ## Program:
 ### Developed by: Rohith S
 ### RegisterNumber: 25008317
